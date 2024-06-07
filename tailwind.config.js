@@ -18,6 +18,7 @@ module.exports = {
     boxShadow: {
       header: " 0px 2px 4px 0px rgba(0, 0, 0, 0.06)",
       input: " 0px 2px 9px 0px rgba(0, 0, 0, 0.05)",
+      card: " 0px 0px 7px 2px rgba(0, 0, 0, 0.03)",
     },
     backgroundPosition: {
       searchpos: "left 32px center",
